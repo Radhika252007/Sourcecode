@@ -1,2 +1,2 @@
-THis is a new file
-Hi my name is Radhika
+This is to make a patch file
+this file is from New branch

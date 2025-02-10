@@ -1,0 +1,6 @@
+--- firstfile.txt	2025-01-31 19:09:40.653784700 +0530
++++ secondfile.txt	2025-01-31 19:23:42.773037700 +0530
+@@ -1,2 +1 @@
+-THis is a new file
+-Hi my name is Radhika
++This is to make a patch file
